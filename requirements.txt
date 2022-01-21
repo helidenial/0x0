@@ -8,3 +8,5 @@ Flask_SQLAlchemy
 validators
 flask_migrate
 python_magic
+uwsgi
+
